@@ -1,0 +1,25 @@
+.bg-yellow{
+    background-color: #FFC017;
+}
+
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+body {
+    font-family: 'PT Serif', serif;
+}
+
+.col-1 h1{
+    opacity: 0.4;
+}
+
+.btn-sm {
+    
+    margin-left: -2px;
+    margin-top: 10px;
+}
+
+.border-t{
+    border-top: 1px solid rgba(230, 230, 230, 1);
+}
